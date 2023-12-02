@@ -12,6 +12,11 @@ public class PlayerController : MonoBehaviour
     public List<GameObject> shapes = new();
     private GameObject player;
     public float speed;
+    private float minSize = 0.5f;
+    public float maxJump;
+    public float waitTime;
+    public float shrinkFactor;
+    public float growFactor;
     public float rotationSpeed;
     public int shape;
     
@@ -19,18 +24,21 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody>();
-        player = Instantiate(shapes[0], this.transform.position, this.transform.rotation, this.transform);
+        player = Instantiate(shapes[shape], this.transform.position, this.transform.rotation, this.transform);
     }
 
     // Update is called once per frame
     void FixedUpdate()
     {
-        player.transform.position = new Vector3(this.transform.position.x, player.transform.position.y, this.transform.position.z);
         changeShape(shape);
         if(shape == 0){
             ballControls();
         }
+        if(shape == 1){
+            springControls();
+        }
         print(player.name);
+        player.transform.position = new Vector3(this.transform.position.x, player.transform.position.y, this.transform.position.z);
     }
 
     void ballControls(){
@@ -56,14 +64,53 @@ public class PlayerController : MonoBehaviour
             Debug.Log("change");
             shape = 0;
             Destroy(GameObject.Find(shapes[currShape].name + "(Clone)"));
-            player = Instantiate(shapes[shape],this.transform.position, this.transform.rotation, this.transform);
+            player = Instantiate(shapes[shape], this.transform.position, this.transform.rotation, this.transform);
         }
         if(Input.GetKeyDown(KeyCode.Alpha2)){
             Debug.Log("change");
             shape = 1;
             Destroy(GameObject.Find(shapes[currShape].name + "(Clone)"));
             player = Instantiate(shapes[shape], this.transform.position, this.transform.rotation, this.transform);
+            //Debug.Break();
         }
         
     }
+    void springControls(){
+        if(Input.GetKeyDown(KeyCode.Space)){
+            StartCoroutine(Scale());
+            
+        }
+    }
+
+    IEnumerator Scale()
+    {
+        float timer = 0;
+        bool jumped = false;
+        // we scale all axis, so they will have the same value, 
+        // so we can work with a float instead of comparing vectors
+        while(minSize < player.transform.localScale.y)
+        {
+            timer += Time.deltaTime;
+            player.transform.localScale -= new Vector3(0, 1.5f, 0) * Time.deltaTime * shrinkFactor;
+            yield return null;
+        }
+        // reset the timer
+
+        yield return new WaitForSeconds(waitTime);
+        timer = 0;
+        while(3 > player.transform.localScale.y)
+        {
+            timer += Time.deltaTime;
+            player.transform.localScale += new Vector3(0, 1, 0) * Time.deltaTime * growFactor;
+            if(jumped == false){
+                player.GetComponent<Rigidbody>().AddForce(player.transform.up * maxJump, ForceMode.Impulse);
+                jumped = true;
+            }
+            yield return null;
+        }
+
+        timer = 0;
+        yield return new WaitForSeconds(waitTime);
+    }
+    
 }
