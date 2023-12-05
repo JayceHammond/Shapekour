@@ -35,10 +35,11 @@ public class PlayerController : MonoBehaviour
     }
 
     // Update is called once per frame
-
+    void Update(){
+        changeShape(shape);
+    }
     void FixedUpdate()
     {
-        changeShape(shape);
         if(shape == 0){
             ballControls();
         }
@@ -48,7 +49,7 @@ public class PlayerController : MonoBehaviour
         if(shape == 2){
             planeControls();
         }
-        print(player.name);
+        
         player.transform.position = new Vector3(transform.position.x, player.transform.position.y, transform.position.z);
     }
 
@@ -101,7 +102,10 @@ public class PlayerController : MonoBehaviour
 
     void planeControls(){
         player.GetComponent<Rigidbody>().AddForce(transform.up * (-9.81f/100f),ForceMode.Force);
-        player.GetComponent<Rigidbody>().AddForce(transform.forward * flightSpeed, ForceMode.Force);
+        if(Input.GetKey(KeyCode.W)){
+            rb.AddForce(transform.forward * flightSpeed, ForceMode.Force);
+        }
+        
     }
 
     IEnumerator Scale()
