@@ -1,6 +1,8 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Globalization;
+using Cinemachine;
 using UnityEditor.Callbacks;
 using UnityEngine;
 using UnityEngine.U2D;
@@ -11,6 +13,7 @@ public class PlayerController : MonoBehaviour
     private Rigidbody rb;
     public List<GameObject> shapes = new();
     private GameObject player;
+    public CinemachineFreeLook cam;
     public float speed;
     private float minSize = 0.5f;
     public float maxJump;
@@ -19,25 +22,31 @@ public class PlayerController : MonoBehaviour
     public float growFactor;
     public float rotationSpeed;
     public int shape;
+    private float lastHeight;
+    public float flightSpeed;
 
-    
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody>();
         player = Instantiate(shapes[shape], transform.position, transform.rotation, transform);
+        cam.Follow = player.transform;
+        
     }
 
     // Update is called once per frame
+
     void FixedUpdate()
     {
-        
         changeShape(shape);
         if(shape == 0){
             ballControls();
         }
         if(shape == 1){
             springControls();
+        }
+        if(shape == 2){
+            planeControls();
         }
         print(player.name);
         player.transform.position = new Vector3(transform.position.x, player.transform.position.y, transform.position.z);
@@ -62,16 +71,23 @@ public class PlayerController : MonoBehaviour
         }
     }
     void changeShape(int currShape){
-        
+        cam.Follow = player.transform;
+        cam.LookAt = player.transform;
+        lastHeight = player.transform.position.y;
         if(Input.GetKeyDown(KeyCode.Alpha1)){
             StopCoroutine(Scale());
             player.transform.localScale = new Vector3(1, 1, 1);
             shape = 0;
             Destroy(GameObject.Find(shapes[currShape].name + "(Clone)"));
-            player = Instantiate(shapes[shape], player.transform.position, transform.rotation, transform);
+            player = Instantiate(shapes[shape], new Vector3(transform.position.x, lastHeight + 0.5f, transform.position.z), transform.rotation, transform);
         }
         if(Input.GetKeyDown(KeyCode.Alpha2)){
             shape = 1;
+            Destroy(GameObject.Find(shapes[currShape].name + "(Clone)"));
+            player = Instantiate(shapes[shape], player.transform.position, transform.rotation, transform);
+        }
+        if(Input.GetKeyDown(KeyCode.Alpha3)){
+            shape = 2;
             Destroy(GameObject.Find(shapes[currShape].name + "(Clone)"));
             player = Instantiate(shapes[shape], player.transform.position, transform.rotation, transform);
         }
@@ -81,6 +97,11 @@ public class PlayerController : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Space)){
             StartCoroutine(Scale());
         }
+    }
+
+    void planeControls(){
+        player.GetComponent<Rigidbody>().AddForce(transform.up * (-9.81f/100f),ForceMode.Force);
+        player.GetComponent<Rigidbody>().AddForce(transform.forward * flightSpeed, ForceMode.Force);
     }
 
     IEnumerator Scale()
@@ -105,12 +126,12 @@ public class PlayerController : MonoBehaviour
             player.transform.localScale += new Vector3(0, 1, 0) * Time.deltaTime * growFactor;
             if(jumped == false){
                 player.GetComponent<Rigidbody>().AddForce(player.transform.up * maxJump, ForceMode.Impulse);
-                rb.AddForce(player.transform.up * maxJump, ForceMode.Impulse);
+        
                 jumped = true;
             }
             yield return null;
         }
-        rb.AddForce(-player.transform.up * maxJump, ForceMode.Impulse);
+
         timer = 0;
         yield return new WaitForSeconds(waitTime);
     }
