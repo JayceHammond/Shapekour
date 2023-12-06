@@ -1,12 +1,9 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Globalization;
-using System.Runtime.InteropServices.WindowsRuntime;
 using Cinemachine;
-using UnityEditor.Callbacks;
 using UnityEngine;
-using UnityEngine.U2D;
+
 
 public class PlayerController : MonoBehaviour
 {
