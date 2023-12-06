@@ -2352,8 +2352,8 @@ MonoBehaviour:
   aimPlacePosition: {x: 0, y: -0.03, z: 0.3}
   gunAimTime: 0.05
   reloading: 0
-  mouseSensitvity_notAiming: 4
-  mouseSensitvity_aiming: 1
+  mouseSensitvity_notAiming: 6
+  mouseSensitvity_aiming: 3
   mouseSensitvity_running: 1
   meeleAttack: 0
   aiming: 0

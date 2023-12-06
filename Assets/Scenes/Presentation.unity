@@ -162,6 +162,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 22
@@ -172,7 +176,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.682045
+      value: -40.72
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.z
@@ -224,6 +228,10 @@ PrefabInstance:
     - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_Name
       value: pine_small_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
@@ -287,6 +295,10 @@ PrefabInstance:
     - target: {fileID: 133100, guid: 5db6a055f739fb445b08f16046d8f5d6, type: 3}
       propertyPath: m_Name
       value: house_long_nightlights_02 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 133100, guid: 5db6a055f739fb445b08f16046d8f5d6, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 466534, guid: 5db6a055f739fb445b08f16046d8f5d6, type: 3}
       propertyPath: m_RootOrder
@@ -407,6 +419,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 27
@@ -469,6 +485,10 @@ PrefabInstance:
     - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_Name
       value: pine_small_01 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
@@ -533,6 +553,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 89
@@ -543,7 +567,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.68203
+      value: -39.59
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.z
@@ -596,6 +620,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 50
@@ -606,7 +634,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.682045
+      value: -39.590015
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_LocalPosition.z
@@ -696,6 +724,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -752,6 +784,10 @@ PrefabInstance:
     - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_Name
       value: pine_medium_01 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_RootOrder
@@ -816,6 +852,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_01 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
       value: 54
@@ -878,6 +918,10 @@ PrefabInstance:
     - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_Name
       value: pine_small_01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
@@ -942,6 +986,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_01 (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
       value: 144
@@ -1004,6 +1052,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -1068,6 +1120,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_01 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
       value: 15
@@ -1131,6 +1187,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground_01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 116158, guid: 9b68d0bab0322e44792a25b4305c663b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 431936, guid: 9b68d0bab0322e44792a25b4305c663b, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -1187,6 +1247,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -1251,21 +1315,25 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 109
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 91.11438
+      value: 87.88
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.68203
+      value: -40.55
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 142.7666
+      value: 139.33
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1313,6 +1381,10 @@ PrefabInstance:
     - target: {fileID: 100840, guid: edffbc9d9a9991241a2171db706070c9, type: 3}
       propertyPath: m_Name
       value: cliff_group_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 100840, guid: edffbc9d9a9991241a2171db706070c9, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 436394, guid: edffbc9d9a9991241a2171db706070c9, type: 3}
       propertyPath: m_RootOrder
@@ -1370,6 +1442,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -1433,6 +1509,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -1503,6 +1583,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 116
@@ -1565,6 +1649,10 @@ PrefabInstance:
     - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_Name
       value: pine_medium_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_RootOrder
@@ -1629,6 +1717,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_01 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
       value: 85
@@ -1691,6 +1783,10 @@ PrefabInstance:
     - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_Name
       value: pine_medium_01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_RootOrder
@@ -1755,6 +1851,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 77
@@ -1817,6 +1917,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -1881,6 +1985,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -1937,6 +2045,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -2001,6 +2113,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 69
@@ -2063,6 +2179,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -2133,6 +2253,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 118
@@ -2196,6 +2320,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -2252,6 +2380,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -2315,6 +2447,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -2407,6 +2543,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: house_long_nightlights_01
       objectReference: {fileID: 0}
+    - target: {fileID: 147544, guid: dfc32ec31ef61ab49a31f3a4f4af24c1, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 496216, guid: dfc32ec31ef61ab49a31f3a4f4af24c1, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -2464,6 +2604,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -2528,6 +2672,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: church_nightlights
       objectReference: {fileID: 0}
+    - target: {fileID: 123950, guid: 23ca8a2b724a5454ba37964c32f0023b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 441496, guid: 23ca8a2b724a5454ba37964c32f0023b, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -2585,6 +2733,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -2649,6 +2801,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_01 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
       value: 44
@@ -2701,6 +2857,134 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 420120736}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &434688232
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 434688234}
+  - component: {fileID: 434688233}
+  m_Layer: 0
+  m_Name: Audio Source
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &434688233
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 434688232}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: a24bba9e4cb14cd40b33d51439c4123f, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &434688234
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 434688232}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 181.68526, y: -64.76608, z: 115.54874}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &439209646
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2711,6 +2995,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -2775,6 +3063,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_01 (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
       value: 115
@@ -2837,6 +3129,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -2901,6 +3197,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 106
@@ -2964,6 +3264,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 98
@@ -3026,6 +3330,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -3118,6 +3426,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_01 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
       value: 74
@@ -3186,6 +3498,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -3289,6 +3605,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 138
@@ -3352,6 +3672,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 129
@@ -3414,6 +3738,10 @@ PrefabInstance:
     - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_Name
       value: pine_small_01 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
@@ -3484,6 +3812,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 92
@@ -3494,7 +3826,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.682045
+      value: -39.590015
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3546,6 +3878,10 @@ PrefabInstance:
     - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_Name
       value: pine_small_01 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
@@ -3610,6 +3946,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_01 (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
       value: 145
@@ -3673,6 +4013,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 88
@@ -3735,6 +4079,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -4078,6 +4426,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 108
@@ -4140,6 +4492,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -4204,6 +4560,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 78
@@ -4266,6 +4626,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -4451,6 +4815,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_01 (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
       value: 134
@@ -4513,6 +4881,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -4577,6 +4949,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -4639,6 +5015,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -4703,6 +5083,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 30
@@ -4766,6 +5150,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_medium_01
       objectReference: {fileID: 0}
+    - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -4823,6 +5211,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -4879,6 +5271,10 @@ PrefabInstance:
     - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_Name
       value: pine_small_01 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
@@ -4943,6 +5339,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 56
@@ -5006,6 +5406,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 102
@@ -5016,7 +5420,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.682045
+      value: -40.550014
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5074,6 +5478,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -5138,6 +5546,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 46
@@ -5201,6 +5613,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_03
       objectReference: {fileID: 0}
+    - target: {fileID: 190376, guid: 2e577f0b9d71c344e9e0c77c9c91ae79, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 489208, guid: 2e577f0b9d71c344e9e0c77c9c91ae79, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -5258,6 +5674,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (55)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 139
@@ -5268,7 +5688,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.68203
+      value: -41.08
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5320,6 +5740,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -5384,6 +5808,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_01 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
       value: 25
@@ -5447,6 +5875,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 96
@@ -5457,7 +5889,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.68204
+      value: -40.719997
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5509,6 +5941,10 @@ PrefabInstance:
     - target: {fileID: 133100, guid: 5db6a055f739fb445b08f16046d8f5d6, type: 3}
       propertyPath: m_Name
       value: house_long_nightlights_02 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 133100, guid: 5db6a055f739fb445b08f16046d8f5d6, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 466534, guid: 5db6a055f739fb445b08f16046d8f5d6, type: 3}
       propertyPath: m_RootOrder
@@ -5568,6 +6004,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 119
@@ -5578,7 +6018,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.68203
+      value: -40.55
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5630,6 +6070,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -5700,6 +6144,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_medium_01 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_RootOrder
       value: 141
@@ -5710,7 +6158,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.682053
+      value: -40.8
       objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5762,6 +6210,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -5826,6 +6278,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -5888,6 +6344,10 @@ PrefabInstance:
     - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_Name
       value: pine_medium_01 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_RootOrder
@@ -5952,6 +6412,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -6014,6 +6478,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -6078,6 +6546,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 149
@@ -6088,7 +6560,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.68203
+      value: -40.05
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.z
@@ -6147,21 +6619,25 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 76
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 82.05001
+      value: 80.02
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.68204
+      value: -41.31
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 40.307976
+      value: 41.47
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_LocalRotation.w
@@ -6209,6 +6685,10 @@ PrefabInstance:
     - target: {fileID: 128432, guid: 6c79e13c739a75b49b2ebfbf280c68e7, type: 3}
       propertyPath: m_Name
       value: ground_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 128432, guid: 6c79e13c739a75b49b2ebfbf280c68e7, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 451990, guid: 6c79e13c739a75b49b2ebfbf280c68e7, type: 3}
       propertyPath: m_RootOrder
@@ -6295,6 +6775,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 16
@@ -6357,6 +6841,10 @@ PrefabInstance:
     - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_Name
       value: pine_small_01 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
@@ -6421,6 +6909,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_01 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
       value: 34
@@ -6483,6 +6975,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -6547,6 +7043,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: house_long_nightlights_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 133100, guid: 5db6a055f739fb445b08f16046d8f5d6, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 466534, guid: 5db6a055f739fb445b08f16046d8f5d6, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -6604,6 +7104,10 @@ PrefabInstance:
     - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_Name
       value: pine_small_01 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
@@ -6729,6 +7233,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -6791,6 +7299,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -6861,6 +7373,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground_01
       objectReference: {fileID: 0}
+    - target: {fileID: 116158, guid: 9b68d0bab0322e44792a25b4305c663b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 431936, guid: 9b68d0bab0322e44792a25b4305c663b, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -6918,6 +7434,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground_02 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 128432, guid: 6c79e13c739a75b49b2ebfbf280c68e7, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 451990, guid: 6c79e13c739a75b49b2ebfbf280c68e7, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -6974,6 +7494,10 @@ PrefabInstance:
     - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_Name
       value: pine_small_01 (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
@@ -7038,6 +7562,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 128432, guid: 6c79e13c739a75b49b2ebfbf280c68e7, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 451990, guid: 6c79e13c739a75b49b2ebfbf280c68e7, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -7094,6 +7622,10 @@ PrefabInstance:
     - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_Name
       value: pine_medium_01 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_RootOrder
@@ -7158,6 +7690,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_medium_01 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_RootOrder
       value: 31
@@ -7221,6 +7757,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_medium_01 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_RootOrder
       value: 61
@@ -7231,7 +7771,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.682053
+      value: -39.590023
       objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_LocalPosition.z
@@ -7283,6 +7823,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -7347,6 +7891,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 32
@@ -7409,6 +7957,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -7473,6 +8025,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 57
@@ -7535,6 +8091,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -7599,6 +8159,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -7662,6 +8226,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -7718,6 +8286,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -7782,6 +8354,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 63
@@ -7844,6 +8420,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -7908,6 +8488,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 20
@@ -7971,6 +8555,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 39
@@ -8033,6 +8621,10 @@ PrefabInstance:
     - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_Name
       value: pine_small_01 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
@@ -8125,6 +8717,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: house_long_nightlights_02
       objectReference: {fileID: 0}
+    - target: {fileID: 133100, guid: 5db6a055f739fb445b08f16046d8f5d6, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 466534, guid: 5db6a055f739fb445b08f16046d8f5d6, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -8188,6 +8784,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 82
@@ -8198,7 +8798,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.682045
+      value: -39.590015
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.z
@@ -8250,6 +8850,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -8314,6 +8918,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 112
@@ -8376,6 +8984,10 @@ PrefabInstance:
     - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_Name
       value: pine_medium_01 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_RootOrder
@@ -8440,6 +9052,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (56)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 142
@@ -8450,7 +9066,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.682045
+      value: -41.09
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.z
@@ -8502,6 +9118,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -8566,6 +9186,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: church_nightlights (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 123950, guid: 23ca8a2b724a5454ba37964c32f0023b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 441496, guid: 23ca8a2b724a5454ba37964c32f0023b, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -8623,6 +9247,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 29
@@ -8633,7 +9261,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.68203
+      value: -39.69
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.z
@@ -8720,6 +9348,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_medium_01 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_RootOrder
       value: 51
@@ -8730,7 +9362,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.682053
+      value: -39.590023
       objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_LocalPosition.z
@@ -8782,6 +9414,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -8846,6 +9482,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 146
@@ -8909,6 +9549,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: house_long_nightlights_02 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 133100, guid: 5db6a055f739fb445b08f16046d8f5d6, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 466534, guid: 5db6a055f739fb445b08f16046d8f5d6, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -8966,6 +9610,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -9030,6 +9678,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 130
@@ -9093,6 +9745,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 132
@@ -9103,7 +9759,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.682045
+      value: -39.95
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.z
@@ -9155,6 +9811,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -9213,6 +9873,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 122
@@ -9223,7 +9887,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.682045
+      value: -39.590015
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.z
@@ -9275,6 +9939,10 @@ PrefabInstance:
     - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_Name
       value: pine_medium_01 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_RootOrder
@@ -9339,6 +10007,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 107
@@ -9401,6 +10073,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -9465,6 +10141,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 128
@@ -9528,6 +10208,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_01 (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
       value: 125
@@ -9590,6 +10274,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -9693,6 +10381,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 116158, guid: 9b68d0bab0322e44792a25b4305c663b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 431936, guid: 9b68d0bab0322e44792a25b4305c663b, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -9749,6 +10441,10 @@ PrefabInstance:
     - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_Name
       value: pine_small_01 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
@@ -9813,6 +10509,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 52
@@ -9823,7 +10523,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.682045
+      value: -40.85
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.z
@@ -9882,6 +10582,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_01
       objectReference: {fileID: 0}
+    - target: {fileID: 196262, guid: d02a52f9bab83eb489c605dfebaf95ce, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 431422, guid: d02a52f9bab83eb489c605dfebaf95ce, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -9938,6 +10642,10 @@ PrefabInstance:
     - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_Name
       value: pine_small_01 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
@@ -10002,6 +10710,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_01 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
       value: 84
@@ -10064,6 +10776,10 @@ PrefabInstance:
     - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_Name
       value: pine_medium_01 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_RootOrder
@@ -10156,6 +10872,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_medium_01 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_RootOrder
       value: 71
@@ -10219,6 +10939,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 36
@@ -10281,6 +11005,10 @@ PrefabInstance:
     - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_Name
       value: pine_small_snowy_01 (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
@@ -10357,6 +11085,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -10414,6 +11146,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_01
       objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -10470,6 +11206,10 @@ PrefabInstance:
     - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_Name
       value: pine_small_01 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
@@ -10534,6 +11274,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 53
@@ -10596,6 +11340,10 @@ PrefabInstance:
     - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_Name
       value: pine_medium_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 182014, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 411708, guid: 1e66d345b10380549a6c704e7469cd40, type: 3}
       propertyPath: m_RootOrder
@@ -10711,6 +11459,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 137
@@ -10773,6 +11525,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -10837,6 +11593,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_tall_snowy_01 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
       value: 38
@@ -10899,6 +11659,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -10963,6 +11727,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 117
@@ -11026,6 +11794,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_01 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
       value: 75
@@ -11088,6 +11860,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -11180,6 +11956,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 62
@@ -11190,7 +11970,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.682045
+      value: -40.85
       objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_LocalPosition.z
@@ -11242,6 +12022,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
@@ -11333,6 +12117,10 @@ PrefabInstance:
     - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_Name
       value: pine_small_01 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 123758, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 403102, guid: 6c1f57bfa0b96ec46b492924aebc0f99, type: 3}
       propertyPath: m_RootOrder
@@ -11434,6 +12222,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pine_small_snowy_01 (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 138714, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
+      objectReference: {fileID: 0}
     - target: {fileID: 400554, guid: a5e2b1af166b66644b1ee5e73fe2a182, type: 3}
       propertyPath: m_RootOrder
       value: 72
@@ -11524,6 +12316,10 @@ PrefabInstance:
     - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_Name
       value: pine_tall_snowy_01 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162136, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
+      propertyPath: m_TagString
+      value: LevelPart
       objectReference: {fileID: 0}
     - target: {fileID: 443204, guid: 7d88a0a8be53f244b88192f9c7ba255b, type: 3}
       propertyPath: m_RootOrder
