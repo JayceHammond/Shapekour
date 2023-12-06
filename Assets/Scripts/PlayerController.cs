@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
+using System.Runtime.InteropServices.WindowsRuntime;
 using Cinemachine;
 using UnityEditor.Callbacks;
 using UnityEngine;
@@ -24,6 +25,7 @@ public class PlayerController : MonoBehaviour
     public int shape;
     private float lastHeight;
     public float flightSpeed;
+    public float maxSpeed;
 
     // Start is called before the first frame update
     void Start()
@@ -31,21 +33,24 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody>();
         player = Instantiate(shapes[shape], transform.position, transform.rotation, transform);
         cam.Follow = player.transform;
+        cam.LookAt = player.transform;
+        Cursor.lockState = CursorLockMode.Locked;
         
     }
 
     // Update is called once per frame
     void Update(){
         changeShape(shape);
+        if(shape == 1){
+            springControls();
+        }
     }
     void FixedUpdate()
     {
         if(shape == 0){
             ballControls();
         }
-        if(shape == 1){
-            springControls();
-        }
+        
         if(shape == 2){
             planeControls();
         }
@@ -54,9 +59,11 @@ public class PlayerController : MonoBehaviour
     }
 
     void ballControls(){
-        if(Input.GetKey(KeyCode.W)){
-            rb.AddForce(rb.transform.forward * speed, ForceMode.Impulse);
-            player.GetComponent<Rigidbody>().AddRelativeTorque(rotationSpeed, 0, 0);
+        if(Input.GetKey(KeyCode.W) && rb.velocity.magnitude < maxSpeed){
+            //rb.AddForce(rb.transform.forward * speed, ForceMode.Impulse);
+            rb.MovePosition(transform.position + Camera.main.transform.forward * speed * Time.deltaTime);
+            player.GetComponent<Rigidbody>().MoveRotation(new Quaternion(transform.rotation.x, transform.rotation.y + rotationSpeed * Time.deltaTime, transform.rotation.z, transform.rotation.w));
+            //player.GetComponent<Rigidbody>().AddRelativeTorque(rotationSpeed, 0, 0);
         }
         if(Input.GetKey(KeyCode.D)){
             transform.Rotate(0,rotationSpeed, 0);
@@ -67,8 +74,8 @@ public class PlayerController : MonoBehaviour
             player.GetComponent<Rigidbody>().AddRelativeTorque(0, -rotationSpeed, 0);
         }
         if(Input.GetKey(KeyCode.S)){
-            rb.AddForce(-rb.transform.forward * speed, ForceMode.Impulse);
-            player.GetComponent<Rigidbody>().AddRelativeTorque(-rotationSpeed, 0, 0);
+            rb.MovePosition(transform.position - Camera.main.transform.forward * speed * Time.deltaTime);
+            //player.GetComponent<Rigidbody>().AddRelativeTorque(-rotationSpeed, 0, 0);
         }
     }
     void changeShape(int currShape){
@@ -104,6 +111,14 @@ public class PlayerController : MonoBehaviour
         player.GetComponent<Rigidbody>().AddForce(transform.up * (-9.81f/100f),ForceMode.Force);
         if(Input.GetKey(KeyCode.W)){
             rb.AddForce(transform.forward * flightSpeed, ForceMode.Force);
+        }
+        if(Input.GetKey(KeyCode.D)){
+            player.transform.Rotate(Input.GetAxis("Horizontal"), 0.0f, -Input.GetAxis("Vertical"));
+            rb.AddForce(transform.right,ForceMode.Impulse);
+        }
+        if(Input.GetKey(KeyCode.A)){
+            player.transform.Rotate(-Input.GetAxis("Horizontal"), 0.0f, Input.GetAxis("Vertical"));
+            rb.AddForce(-transform.right,ForceMode.Impulse);
         }
         
     }
